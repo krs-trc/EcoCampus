@@ -1,6 +1,6 @@
 # EcoCampus
- A mobile app interface prototype development.
- Figma Link: https://www.figma.com/proto/GMSwzyDEU1M2H7PEbHJg72/HCI-Project-EcoCampus?type=design&node-id=0-1&t=3WO6zdOnKNaLnaBY-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=403%3A2327
+ - A mobile app interface prototype development.
+ - Figma Link: https://www.figma.com/proto/GMSwzyDEU1M2H7PEbHJg72/HCI-Project-EcoCampus?type=design&node-id=0-1&t=3WO6zdOnKNaLnaBY-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=403%3A2327
 
 # Overview
   Students often face challenges in adopting sustainable practices, with recycling being a particularly neglected aspect. 
